@@ -1,1 +1,1 @@
-This is my alx high level prgramming repository
+This is the Python repository for alx
