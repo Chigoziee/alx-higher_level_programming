@@ -9,4 +9,4 @@ elif last == 0:
     test = 'and is 0\n'
 elif last < 6 and number != 0:
     test = 'and is less than 6 and not 0\n'
-print(f'Last digit of {number} is {last} {test}')
+print('Last digit of {} is {} {}'.format(number, last, test))
